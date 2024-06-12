@@ -1,7 +1,7 @@
 # DBMS-final-project
 
 ## Data
-The three .csv files are random generated data
+The three .csv files are random generated data\
 Execute construct.ipynb to load data into PostgreSQL
 
 ## Experiment
